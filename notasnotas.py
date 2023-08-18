@@ -1,7 +1,7 @@
 # Tais funções vão tratar, isoladamente, as variáveis abaixo. 
 #A função é basicamente um sistema de entrada(recebe) e a saida(devolve) das informações
-def calcular_media(nota1, nota2):
-    return (nota1 + nota2) / 2
+def calcular_media(recebe_nota1, recebe_nota2):
+    return (recebe_nota1 + recebe_nota2) / 2
 
 def ler_nota():
     nota = int(input("Digite sua nota: "))
