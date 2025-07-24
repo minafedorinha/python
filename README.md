@@ -1,3 +1,3 @@
 # python
 
-### este é o meu supositório de python
+### este é o meu repositório de python
